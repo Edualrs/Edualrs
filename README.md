@@ -3,7 +3,7 @@
 I'm Eduardo Albuquerque, a university student passionate about software development. I enjoy building small projects to sharpen my skills and explore real-world applications of what I learn.
 
 **Current Focus Areas**
-- Object-Oriented Programming with Python
+- Functional Programming with Python
 - Data Analysis and Manipulation using SQL
 
 <br>
