@@ -8,4 +8,4 @@ I'm Eduardo Albuquerque, a university student passionate about software developm
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,git)](https://skillicons.dev)
