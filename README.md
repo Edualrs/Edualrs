@@ -7,4 +7,6 @@ Atualmente estudando:
 - Git e GitHub
 - Fundamentos HTTP
 
+<br>
+
 [![My Skills](https://skillicons.dev/icons?i=javascript,html,css,git)](https://skillicons.dev)
