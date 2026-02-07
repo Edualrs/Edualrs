@@ -9,4 +9,4 @@ Atualmente estudando:
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,html,css,git)](https://skillicons.dev)
